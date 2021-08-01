@@ -1,4 +1,4 @@
-<p>Coach: Sarfaroz Khakimov <br />
+<p> Coach: Sarfaroz Khakimov <br />
 Dauer: 120-150 Minuten<br />
 Termin: Asynchronen Workshop<br /></p>
 
@@ -19,14 +19,16 @@ Termin: Asynchronen Workshop<br /></p>
 
 <h2 id="vorraussetzungen">Vorraussetzungen</h2>
 <ul>
-  <li>IDE : <a href="https://code.visualstudio.com/download">VSCode</a> installieren</li>
-  <li>Browser :  (Im Workshop benutze ich Chrome)</li>
+ <li>IDE :Code-Editor optional<a href="https://code.visualstudio.com/download"> installieren</a></li>
+ <li>Browser :  (Im Workshop benutze ich Chrome)</li>
+  <li>Javascript und CSS Kenntnisse</li>
 </ul>
 
 <h2 id="vorbereitungen">Vorbereitungen</h2>
 <ul>
-  <li><a href=https://cli.vuejs.org/">Vue CLI installieren</a></li>
-   <li><a href=https://tailwindcss.com/docs/guides/vue-3-vite/">Tailwind CSS installieren</a></li>
+ <li>Vue CLI <a href=https://cli.vuejs.org/">installieren</a></li>
+ <li>Tailwind CSS <a href=https://tailwindcss.com/docs/guides/vue-3-vite/">installieren</a></li>
+  <li>Github Repo zum Workshop<a href=https://cli.vuejs.org/"> clonen</a></li>
   
 </ul>
 
