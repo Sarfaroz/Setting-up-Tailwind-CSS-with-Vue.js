@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<p>Coach: Sarfaroz Khakimov <br />
+Dauer: 120-150 Minuten<br />
+Termin: Asynchronen Workshop<br /></p>
 
-You can use the [editor on GitHub](https://github.com/Sarfaroz/Setting-up-Tailwind-CSSwith-Vue.js/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<hr />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>Diese Repository beinhaltete die Materialien für den Workshop <a href="https://sarfaroz.github.io/Setting-up-Tailwind-CSSwith-Vue.js/">“Setting-up-Tailwind-CSSwith-Vue”</a> für den Kurs Webtechnologien im Master Medieninformatik an der TH Köln.</p>
 
-### Markdown
+<hr />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>In diesem Workshop wird das Thema <em>Setting-up-Tailwind-CSSwith-Vue</em> vorgestellt. Es soll ein Überblick über das Thema gegeben werden und wie man damit umgeht. Mit Hilfe von Übungen sollen die Teilnehmer das vorgestellte Thema innerhalb des Workshops vertiefen können.</p>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<hr />
 
-1. Numbered
-2. List
+<h2 id="vorraussetzungen">Vorraussetzungen</h2>
+<ul>
+  <li>IDE : <a href="https://code.visualstudio.com/download">VSCode</a> installieren</li>
+  <li>Browser :  (Im Workshop benutze ich Chrome)</li>
+</ul>
 
-**Bold** and _Italic_ and `Code` text
+<h2 id="vorbereitungen">Vorbereitungen</h2>
+<ul>
+  <li><a href=https://cli.vuejs.org/">Vue CLI installieren</a></li>
+  
+</ul>
 
-[Link](url) and ![Image](src)
-```
+<h2 id="material">Material</h2>
+<ul>
+  <li>VUE.js <a href="https://v3.vuejs.org/guide/introduction.html">Dokumentation</a></li>
+</ul>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sarfaroz/Setting-up-Tailwind-CSSwith-Vue.js/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
