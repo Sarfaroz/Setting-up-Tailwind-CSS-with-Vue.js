@@ -37,10 +37,10 @@ Termin: Asynchronen Workshop<br /></p>
 <ul>
   <li>Vue.js <a href="https://v3.vuejs.org/guide/introduction.html">Dokumentation</a></li>
   <li>Tailwind CSS <a href="https://tailwindcss.com/docs">Dokumentation</a></li>
-  <li>Github Repo mit Übungen<a href="https://github.com/Sarfaroz/Setting-up-Tailwind-CSSwith-Vue.js"> Dokumentation</a></li>
-  <li>Vorbereitete Materialen <a href="https://tailwindcss.com/docs">Dokumentation</a></li>
-   <li>Folien <a href="https://github.com/Sarfaroz/Setting-up-Tailwind-CSSwith-Vue.js">Dokumentation</a></li>
-    <li>Workshop <a href="https://tailwindcss.com/docs">Video</a></li>
+  <li>Github Repo mit Übungen<a href="https://github.com/Sarfaroz/Setting-up-Tailwind-CSSwith-Vue.js/tree/main/Aufgaben"> Dokumentation</a></li>
+  <li>Vorbereitete<a href="https://th-koeln.sciebo.de/s/uzxqozViBYK5o2c"> Materialen</a></li>
+   <li>Folien <a href="https://github.com/Sarfaroz/Setting-up-Tailwind-CSSwith-Vue.js/tree/main/Folien">GitHub</a></li>
+    <li>Workshop <a href="https://th-koeln.sciebo.de/s/a7ID4jf91RCOs1t">Video</a></li>
 </ul>
 
 
