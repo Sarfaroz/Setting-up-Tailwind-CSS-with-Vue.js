@@ -27,8 +27,8 @@ Termin: Asynchronen Workshop<br /></p>
 
 <h2 id="vorbereitungen">Vorbereitungen</h2>
 <ul>
- <li>Vue CLI <a href=https://cli.vuejs.org/">installieren</a></li>
- <li>Tailwind CSS <a href=https://tailwindcss.com/docs/guides/vue-3-vite/">installieren</a></li>
+ <li>Vue CLI <a href="https://cli.vuejs.org/">installieren</a></li>
+ <li>Tailwind CSS <a href="https://tailwindcss.com/docs">installieren</a></li>
   <li>Github Repo zum Workshop<a href="https://github.com/Sarfaroz/Setting-up-Tailwind-CSS-with-Vue.js"> durchlesen</a></li>
   
 </ul>
